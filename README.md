@@ -1,4 +1,4 @@
-# MediumGraphqlApi
+# Medium Graphql Api Clone
 
 To start your Phoenix server:
 
